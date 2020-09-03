@@ -6,5 +6,9 @@ namespace gitCommandDemo
 {
     class Person
     {
+        public Person()
+        {
+            
+        }
     }
 }
