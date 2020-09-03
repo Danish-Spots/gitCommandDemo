@@ -11,7 +11,7 @@ namespace gitCommandDemo
             
         }
 
-        public string Name { get; set; }
+        public string PersonsNameIs { get; set; }
 
         public string Address { get; set; }
 
